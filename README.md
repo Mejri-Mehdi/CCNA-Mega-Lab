@@ -1,7 +1,7 @@
 # 🌐 CCNA Enterprise Mega Lab: Dual-Stack Resilient Network Infrastructure
 [![CCNA](https://img.shields.io/badge/Certification-CCNA%20Implementing%20and%20Administering%20Cisco%20Solutions-blue.svg)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
 [![Packet Tracer](https://img.shields.io/badge/Simulation-Cisco%20Packet%20Tracer-orange.svg)](#)
-[![OSPF](https://img.shields.io/badge/Routing-OSPFv2%20%7C%20OSPFv3-green.svg)](#)
+[![OSPF](https://img.shields.io/badge/Routing-OSPFv2%20%7C%20OSPFv3-green.svg)](#) 
 [![Redundancy](https://img.shields.io/badge/High%20Availability-HSRP%20%7C%20Rapid%20PVST%2B-red.svg)](#)
 [![Security](https://img.shields.io/badge/Security-Dynamic%20ARP%20Inspection%20%7C%20DHCP%20Snooping%20%7C%20Port%20Security-black.svg)](#)
 
